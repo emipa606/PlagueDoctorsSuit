@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	
+  <ThingDef ParentName="ResourceBase">
+    <defName>Thickbandage</defName>
+    <label>thick bandage</label>
+    <description>A bandage used for basic medical needs.</description>
+    <thingClass>Medicine</thingClass>
+    <graphicData>
+      <texPath>Things/Item/Bandage</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+		<techLevel>Neolithic</techLevel>
+		<statBases>
+      <MaxHitPoints>30</MaxHitPoints>
+      <MarketValue>8</MarketValue>
+      <Mass>0.35</Mass>
+      <Flammability>1.0</Flammability>
+      <MedicalPotency>0.40</MedicalPotency>
+      <DeteriorationRate>4</DeteriorationRate>
+	   <WorkToMake>450</WorkToMake>
+    </statBases>
+    <thingCategories>
+      <li>Medicine</li>
+    </thingCategories>
+    <tickerType>Rare</tickerType>
+		  <recipeMaker>
+			<recipeUsers>
+        <li>CraftingSpot</li>
+		<li>ElectricTailoringBench</li>
+		<li>HandTailoringBench</li>
+      </recipeUsers>
+			<workSpeedStat></workSpeedStat>
+			<workSkill></workSkill>
+		   <skillRequirements>
+				<Medicine>3</Medicine>
+           </skillRequirements>
+    </recipeMaker>
+	 <costList>
+      <Cloth>10</Cloth>
+	 </costList>
+	 
+
+  </ThingDef>
+    
+	
+	
+  <ThingDef ParentName="ResourceBase">
+    <defName>Lacedbandage</defName>
+    <label>laced bandage</label>
+    <description>A bandage used for basic medical needs, laced with neutroamine to improve the quality.</description>
+    <thingClass>Medicine</thingClass>
+    <graphicData>
+      <texPath>Things/Item/LBandage</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+		<techLevel>Neolithic</techLevel>
+		<statBases>
+      <MaxHitPoints>30</MaxHitPoints>
+      <MarketValue>12</MarketValue>
+      <Mass>0.36</Mass>
+      <Flammability>1.0</Flammability>
+      <MedicalPotency>0.65</MedicalPotency>
+      <DeteriorationRate>4</DeteriorationRate>
+	   <WorkToMake>500</WorkToMake>
+    </statBases>
+    <thingCategories>
+      <li>Medicine</li>
+    </thingCategories>
+    <tickerType>Rare</tickerType>
+	  <recipeMaker>
+			<recipeUsers>
+        <li>CraftingSpot</li>
+		<li>ElectricTailoringBench</li>
+		<li>HandTailoringBench</li>
+      </recipeUsers>
+			<workSpeedStat></workSpeedStat>
+			<workSkill></workSkill>
+		   <skillRequirements>
+				<Medicine>3</Medicine>
+				<Crafting>1</Crafting>
+           </skillRequirements>
+    </recipeMaker>
+	 <costList>
+      <Neutroamine>2</Neutroamine>
+      <Cloth>10</Cloth>
+	 </costList>
+	  
+  </ThingDef>
+  
+  
+  
+</Defs>

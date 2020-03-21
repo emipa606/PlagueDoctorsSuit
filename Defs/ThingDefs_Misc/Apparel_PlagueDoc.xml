@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+
+	<!-- Plague Doctor outfit-->
+
+  <ThingDef ParentName="ApparelMakeableBase">
+    <defName>Apparel_PlagueDoc</defName>
+    <label>Plague Doctor's Robes</label>
+    <description>The protective suit consisting of a light, waxed fabric overcoat.</description>
+    <techLevel>Medieval</techLevel>
+    <recipeMaker>
+        <researchPrerequisite>ComplexClothing</researchPrerequisite>
+    </recipeMaker>
+	<costStuffCount>100</costStuffCount>
+    <stuffCategories>
+      <li>Fabric</li>
+	  <li>Leathery</li>
+    </stuffCategories>
+	 <costList>
+	  <MedicineHerbal>10</MedicineHerbal>
+	  <Steel>10</Steel>
+    </costList>
+    <graphicData>
+      <texPath>Things/Apparel/Apparel_Doctor/PlagueDocSuit</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <WorkToMake>2000</WorkToMake>
+      <MaxHitPoints>250</MaxHitPoints>
+      <Mass>2</Mass>
+      <ArmorRating_Blunt>0.08</ArmorRating_Blunt>
+      <ArmorRating_Sharp>0.05</ArmorRating_Sharp>
+	  <Insulation_Cold>7</Insulation_Cold>
+    </statBases>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
+    <equippedStatOffsets>
+		<MedicalTendQuality>0.6</MedicalTendQuality>
+		<MedicalSurgerySuccessChance>0.15</MedicalSurgerySuccessChance>
+		<MedicalOperationSpeed>0.1</MedicalOperationSpeed>
+		<MedicalTendSpeed>0.3</MedicalTendSpeed>
+		<ImmunityGainSpeedFactor>0.5</ImmunityGainSpeedFactor>
+    </equippedStatOffsets>
+    <apparel>
+      <bodyPartGroups>
+        <li>Torso</li>
+		 <li>Neck</li>
+				<li>Shoulders</li>
+				<li>Arms</li>
+				<li>Legs</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Apparel/Apparel_Doctor/PlagueDocSuit</wornGraphicPath>
+      <layers>
+		<li>Middle</li>
+      </layers>
+      <tags>
+        <li>IndustrialBasic</li>
+		 <li>MedTimes_Armor_Peasant</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Worker</li>
+      </defaultOutfitTags>
+    </apparel>
+  </ThingDef>
+   
+
+   </Defs>
