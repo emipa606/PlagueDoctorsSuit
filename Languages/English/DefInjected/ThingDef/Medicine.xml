@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Thickbandage.label>thick bandage</Thickbandage.label>
+  <Thickbandage.description>A bandage used for basic medical needs.</Thickbandage.description>
+
+  <Lacedbandage.label>laced bandage</Lacedbandage.label>
+  <Lacedbandage.description>A bandage used for basic medical needs, laced with neutroamine to improve the quality.</Lacedbandage.description>
+
+
+</LanguageData>

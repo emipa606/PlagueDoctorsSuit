@@ -1,7 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-	
   <ThingDef ParentName="ResourceBase">
     <defName>Thickbandage</defName>
     <label>thick bandage</label>
@@ -13,41 +11,38 @@
     </graphicData>
     <soundInteract>Standard_Drop</soundInteract>
     <soundDrop>Standard_Drop</soundDrop>
-		<techLevel>Neolithic</techLevel>
-		<statBases>
+    <techLevel>Neolithic</techLevel>
+    <statBases>
       <MaxHitPoints>30</MaxHitPoints>
       <MarketValue>8</MarketValue>
       <Mass>0.35</Mass>
       <Flammability>1.0</Flammability>
       <MedicalPotency>0.40</MedicalPotency>
       <DeteriorationRate>4</DeteriorationRate>
-	   <WorkToMake>450</WorkToMake>
+      <WorkToMake>450</WorkToMake>
     </statBases>
     <thingCategories>
       <li>Medicine</li>
     </thingCategories>
     <tickerType>Rare</tickerType>
-		  <recipeMaker>
-			<recipeUsers>
+    <recipeMaker>
+      <recipeUsers>
         <li>CraftingSpot</li>
-		<li>ElectricTailoringBench</li>
-		<li>HandTailoringBench</li>
+        <li>ElectricTailoringBench</li>
+        <li>HandTailoringBench</li>
       </recipeUsers>
-			<workSpeedStat></workSpeedStat>
-			<workSkill></workSkill>
-		   <skillRequirements>
-				<Medicine>3</Medicine>
-           </skillRequirements>
+      <workSpeedStat>
+      </workSpeedStat>
+      <workSkill>
+      </workSkill>
+      <skillRequirements>
+        <Medicine>3</Medicine>
+      </skillRequirements>
     </recipeMaker>
-	 <costList>
+    <costList>
       <Cloth>10</Cloth>
-	 </costList>
-	 
-
+    </costList>
   </ThingDef>
-    
-	
-	
   <ThingDef ParentName="ResourceBase">
     <defName>Lacedbandage</defName>
     <label>laced bandage</label>
@@ -59,40 +54,38 @@
     </graphicData>
     <soundInteract>Standard_Drop</soundInteract>
     <soundDrop>Standard_Drop</soundDrop>
-		<techLevel>Neolithic</techLevel>
-		<statBases>
+    <techLevel>Neolithic</techLevel>
+    <statBases>
       <MaxHitPoints>30</MaxHitPoints>
       <MarketValue>12</MarketValue>
       <Mass>0.36</Mass>
       <Flammability>1.0</Flammability>
       <MedicalPotency>0.65</MedicalPotency>
       <DeteriorationRate>4</DeteriorationRate>
-	   <WorkToMake>500</WorkToMake>
+      <WorkToMake>500</WorkToMake>
     </statBases>
     <thingCategories>
       <li>Medicine</li>
     </thingCategories>
     <tickerType>Rare</tickerType>
-	  <recipeMaker>
-			<recipeUsers>
+    <recipeMaker>
+      <recipeUsers>
         <li>CraftingSpot</li>
-		<li>ElectricTailoringBench</li>
-		<li>HandTailoringBench</li>
+        <li>ElectricTailoringBench</li>
+        <li>HandTailoringBench</li>
       </recipeUsers>
-			<workSpeedStat></workSpeedStat>
-			<workSkill></workSkill>
-		   <skillRequirements>
-				<Medicine>3</Medicine>
-				<Crafting>1</Crafting>
-           </skillRequirements>
+      <workSpeedStat>
+      </workSpeedStat>
+      <workSkill>
+      </workSkill>
+      <skillRequirements>
+        <Medicine>3</Medicine>
+        <Crafting>1</Crafting>
+      </skillRequirements>
     </recipeMaker>
-	 <costList>
+    <costList>
       <Neutroamine>2</Neutroamine>
       <Cloth>10</Cloth>
-	 </costList>
-	  
+    </costList>
   </ThingDef>
-  
-  
-  
 </Defs>
