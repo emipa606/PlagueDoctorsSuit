@@ -1,26 +1,17 @@
 # PlagueDoctorsSuit
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Fierydrakens mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1355730934
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/PlagueDoctorsSuit]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
-Brings the iconic plague doctor&apos;s suit into Rimworld
+Brings the iconic plague doctor's suit into Rimworld
 
 The Suit: Gives a tiny bit of armour and adds better tending quality, tending speed, improves surgerory chance, improves surgerory speed, and makes the wearer gain immunity quicker. It requires 10 steel (for the tools), 10 herb medicine (pretty obvious), and 100 fabric/leather stuff.
 The Mask: Gives less armour and adds more tending quality and immunity speed. Requires 60 fabric/leather stuff.
@@ -70,10 +61,10 @@ _█░░░░░░░░░░█______█_███__█_____███_█_
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
 
-&gt; TFW when you think you&apos;ve made your best mod so far, but it turns out to be the least popular one
+ TFW when you think you've made your best mod so far, but it turns out to be the least popular one
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -83,6 +74,7 @@ _█░░░░░░░░░░█______█_███__█_____███_█_
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
