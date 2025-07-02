@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!-- Plague Doctor outfit -->
+  <!-- EN: Plague Doctor's Robes -->
   <Apparel_PlagueDoc.label>Plague Doctor's Robes</Apparel_PlagueDoc.label>
+  <!-- EN: The protective suit consisting of a light, waxed fabric overcoat. -->
   <Apparel_PlagueDoc.description>The protective suit consisting of a light, waxed fabric overcoat.</Apparel_PlagueDoc.description>
 </LanguageData>

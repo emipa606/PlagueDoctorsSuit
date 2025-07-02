@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 2033533477
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a2c03c2a0483ea3d9921f9e0e0f75d8d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a2c03c2a0483ea3d9921f9e0e0f75d8d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.PlagueDoctorsSuit/Textures/Things/Apparel/Apparel_Doctor/PlagueDocHood_east.png
+- Assets/Data/Mlie.PlagueDoctorsSuit/Textures/Things/Apparel/Apparel_Doctor/PlagueDocHat_south.png
+- Assets/Data/Mlie.PlagueDoctorsSuit/Textures/Things/Item/Bandage.png
+- Assets/Data/Mlie.PlagueDoctorsSuit/Textures/Things/Apparel/Apparel_Doctor/PlagueDocSuit_Thin_north.png
+- Assets/Data/Mlie.PlagueDoctorsSuit/Textures/Things/Apparel/Apparel_Doctor/PlagueDocSuit_Hulk_north.png
+- Assets/Data/Mlie.PlagueDoctorsSuit/Textures/Things/Apparel/Apparel_Doctor/PlagueDocSuit_Thin_south.png
+- Assets/Data/Mlie.PlagueDoctorsSuit/Textures/Things/Apparel/Apparel_Doctor/PlagueDocHat_east.png
+- Assets/Data/Mlie.PlagueDoctorsSuit/Textures/Things/Apparel/Apparel_Doctor/PlagueDocHood.png
+- Assets/Data/Mlie.PlagueDoctorsSuit/Textures/Things/Apparel/Apparel_Doctor/PlagueDocSuit_Fat_south.png
+- Assets/Data/Mlie.PlagueDoctorsSuit/Textures/Things/Apparel/Apparel_Doctor/PlagueDocHood_north.png
+- Assets/Data/Mlie.PlagueDoctorsSuit/Textures/Things/Apparel/Apparel_Doctor/PlagueDocSuit_Female_east.png
+- Assets/Data/Mlie.PlagueDoctorsSuit/Textures/Things/Apparel/Apparel_Doctor/PlagueDocSuit_Male_south.png
+- Assets/Data/Mlie.PlagueDoctorsSuit/Textures/Things/Apparel/Apparel_Doctor/PlagueDocHat.png
+- Assets/Data/Mlie.PlagueDoctorsSuit/Textures/Things/Apparel/Apparel_Doctor/PlagueDocSuit.png
+- Assets/Data/Mlie.PlagueDoctorsSuit/Textures/Things/Apparel/Apparel_Doctor/PlagueDocSuit_Female_south.png
+- Assets/Data/Mlie.PlagueDoctorsSuit/Textures/Things/Apparel/Apparel_Doctor/PlagueDocSuit_Male_north.png
+- Assets/Data/Mlie.PlagueDoctorsSuit/Textures/Things/Weapon/DoctorStick.png
+- Assets/Data/Mlie.PlagueDoctorsSuit/Textures/Things/Apparel/Apparel_Doctor/PlagueDocSuit_Female_north.png
+- Assets/Data/Mlie.PlagueDoctorsSuit/Textures/Things/Apparel/Apparel_Doctor/PlagueDocSuit_Thin_east.png
+- Assets/Data/Mlie.PlagueDoctorsSuit/Textures/Things/Apparel/Apparel_Doctor/PlagueDocSuit_Hulk_south.png
+- Assets/Data/Mlie.PlagueDoctorsSuit/Textures/Things/Apparel/Apparel_Doctor/PlagueDocSuit_Male_east.png
+- Assets/Data/Mlie.PlagueDoctorsSuit/Textures/Things/Item/LBandage.png
+- Assets/Data/Mlie.PlagueDoctorsSuit/Textures/Things/Apparel/Apparel_Doctor/PlagueDocSuit_Fat_north.png
+- Assets/Data/Mlie.PlagueDoctorsSuit/Textures/Things/Item/Bandage2 (2).png
+- Assets/Data/Mlie.PlagueDoctorsSuit/Textures/Things/Apparel/Apparel_Doctor/PlagueDocSuit_Fat_east.png
+- Assets/Data/Mlie.PlagueDoctorsSuit/Textures/Things/Apparel/Apparel_Doctor/PlagueDocSuit_Hulk_east.png
+- Assets/Data/Mlie.PlagueDoctorsSuit/Textures/Things/Apparel/Apparel_Doctor/PlagueDocHood_south.png
+- Assets/Data/Mlie.PlagueDoctorsSuit/Textures/Things/Apparel/Apparel_Doctor/PlagueDocHat_north.png
+Dependencies: []

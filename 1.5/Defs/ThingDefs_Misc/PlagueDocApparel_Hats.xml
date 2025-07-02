@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- ================================== Plague Doctor Mask ====================================-->
+  <ThingDef ParentName="HatMakeableBase">
+    <defName>Apparel_PlagueDoctorHelmet</defName>
+    <label>Plague Doctor Mask</label>
+    <description>The mask has glass eye openings and a beak shaped nose, typically stuffed with herbs, straw, and spices.</description>
+    <techLevel>Medieval</techLevel>
+    <recipeMaker>
+      <researchPrerequisite>ComplexClothing</researchPrerequisite>
+    </recipeMaker>
+    <costStuffCount>80</costStuffCount>
+    <stuffCategories>
+      <li>Fabric</li>
+      <li>Leathery</li>
+    </stuffCategories>
+    <graphicData>
+      <texPath>Things/Apparel/Apparel_Doctor/PlagueDocHat</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+    <statBases>
+      <WorkToMake>1200</WorkToMake>
+      <MaxHitPoints>120</MaxHitPoints>
+      <Mass>1.0</Mass>
+      <ArmorRating_Blunt>0.05</ArmorRating_Blunt>
+      <ArmorRating_Sharp>0.05</ArmorRating_Sharp>
+    </statBases>
+    <equippedStatOffsets>
+      <MedicalTendQuality>0.2</MedicalTendQuality>
+      <ImmunityGainSpeedFactor>0.1</ImmunityGainSpeedFactor>
+    </equippedStatOffsets>
+    <apparel>
+      <bodyPartGroups>
+        <li>FullHead</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Apparel/Apparel_Doctor/PlagueDocHat</wornGraphicPath>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <tags>
+        <li>IndustrialBasic</li>
+        <li>MedTimes_Armor_Peasant</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Worker</li>
+      </defaultOutfitTags>
+    </apparel>
+  </ThingDef>
+  <!-- ================================== Plague Doctor Hood ====================================-->
+  <ThingDef ParentName="HatMakeableBase">
+    <defName>Apparel_PlagueDoctorHood</defName>
+    <label>Plague Doctor Hood</label>
+    <description>The mask has glass eye openings and a beak shaped nose, typically stuffed with herbs, straw, and spices.</description>
+    <techLevel>Medieval</techLevel>
+    <recipeMaker>
+      <researchPrerequisite>ComplexClothing</researchPrerequisite>
+    </recipeMaker>
+    <costStuffCount>70</costStuffCount>
+    <stuffCategories>
+      <li>Fabric</li>
+      <li>Leathery</li>
+    </stuffCategories>
+    <graphicData>
+      <texPath>Things/Apparel/Apparel_Doctor/PlagueDocHood</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+    <statBases>
+      <WorkToMake>1200</WorkToMake>
+      <MaxHitPoints>120</MaxHitPoints>
+      <Mass>1.0</Mass>
+      <ArmorRating_Blunt>0.05</ArmorRating_Blunt>
+      <ArmorRating_Sharp>0.05</ArmorRating_Sharp>
+      <Insulation_Cold>7</Insulation_Cold>
+    </statBases>
+    <equippedStatOffsets>
+      <MedicalTendQuality>0.2</MedicalTendQuality>
+      <ImmunityGainSpeedFactor>0.1</ImmunityGainSpeedFactor>
+    </equippedStatOffsets>
+    <apparel>
+      <bodyPartGroups>
+        <li>FullHead</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Apparel/Apparel_Doctor/PlagueDocHood</wornGraphicPath>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <tags>
+        <li>IndustrialBasic</li>
+        <li>MedTimes_Armor_Peasant</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Worker</li>
+      </defaultOutfitTags>
+    </apparel>
+  </ThingDef>
+</Defs>
